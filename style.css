@@ -1,0 +1,24 @@
+table,
+tr,
+td {
+  border: 2px solid pink;
+  border-collapse: collapse;
+  padding: 8px;
+}
+/* thead tr {
+  text-align: center;
+} */
+td {
+  text-align: center;
+}
+body {
+  background: linear-gradient(to top right, rgb(248, 0, 236), red);
+  /* background: linear-gradient(45deg, #58c39f, #4350d1); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+button {
+  padding: 8px;
+  border-radius: 6px;
+}
